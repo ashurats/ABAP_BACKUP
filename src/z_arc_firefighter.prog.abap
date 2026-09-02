@@ -27,8 +27,8 @@
 **-> Start of Code added by Abid Ali
 REPORT z_arc_firefighter.
 TABLES: zfire_req.
-*DATA: ok_code TYPE sy-ucomm,
-*      save_ok TYPE sy-ucomm.
+DATA: ok_code TYPE sy-ucomm,
+     save_ok TYPE sy-ucomm.
 **-> End of Code added by Abid Ali
 *DATA: lv_ts         TYPE timestamp,
 *      lv_date       TYPE d,
