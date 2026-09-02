@@ -26,7 +26,7 @@
 *
 **-> Start of Code added by Abid Ali
 REPORT z_arc_firefighter.
-**TABLES: zfire_req.
+TABLES: zfire_req.
 *DATA: ok_code TYPE sy-ucomm,
 *      save_ok TYPE sy-ucomm.
 **-> End of Code added by Abid Ali
