@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
@@ -11,7 +11,7 @@
     <SCRLEN3>40</SCRLEN3>
     <DDTEXT>Rejection Timestamp</DDTEXT>
     <REPTEXT>Rejection Timestamp</REPTEXT>
-    <SCRTEXT_S>Rejection </SCRTEXT_S>
+    <SCRTEXT_S>Rejection</SCRTEXT_S>
     <SCRTEXT_M>Rejection Timestamp</SCRTEXT_M>
     <SCRTEXT_L>Rejection Timestamp</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
